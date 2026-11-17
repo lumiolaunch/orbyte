@@ -1,0 +1,13 @@
+{
+  "name": "orbyte-website",
+  "version": "1.0.0",
+  "description": "ORBYTE crypto market landing page with live prices and a Claude-powered AI assistant",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
